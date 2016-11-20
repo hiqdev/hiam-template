@@ -24,3 +24,7 @@ package:
         - [bshaffer/oauth2-server-php](https://github.com/bshaffer/oauth2-server-php) - OAuth2 server
         - [hiqdev/yii2-mfa](https://github.com/hiqdev/yii2-mfa) - multi-factor authentication
         - [hiqdev/php-confirmator](https://github.com/hiqdev/php-confirmator) - confirmation tokens
+
+hisite:
+    vhost:
+        domain:     hiam.hiqdev.com

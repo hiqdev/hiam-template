@@ -41,4 +41,4 @@ php composer.phar create-project "hiqdev/hiam:*" directory2install
 This project is released under the terms of the BSD-3-Clause [license](LICENSE).
 Read more [here](http://choosealicense.com/licenses/bsd-3-clause).
 
-Copyright © 2014-2016, HiQDev (http://hiqdev.com/)
+Copyright © 2016, HiQDev (http://hiqdev.com/)

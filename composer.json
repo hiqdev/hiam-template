@@ -60,6 +60,16 @@
             "hiqdev\\hiam\\": "src"
         }
     },
+    "extra": {
+        "config-plugin": {
+            "defines": "src/config/defines.php",
+            "params": [
+                "src/config/params.php",
+                "?src/config/params-local.php"
+            ],
+            "hisite": "src/config/hisite.php"
+        }
+    },
     "minimum-stability": "dev",
     "repositories": [
         {
