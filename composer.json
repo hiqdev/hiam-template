@@ -1,7 +1,7 @@
 {
-    "name": "hiqdev/hiam",
+    "name": "hiqdev/hiam-template",
     "type": "project",
-    "description": "Identity and Access Management server providing OAuth2, RBAC, multi-factor authentication and more",
+    "description": "HIAM template project",
     "keywords": [
         "iam",
         "oauth2",
@@ -13,7 +13,7 @@
         "audit",
         "yii2"
     ],
-    "homepage": "https://github.com/hiqdev/hiam",
+    "homepage": "https://github.com/hiqdev/hiam-template",
     "license": "BSD-3-Clause",
     "support": {
         "email": "support@hiqdev.com",
@@ -32,19 +32,19 @@
         {
             "name": "Dmitry Naumenko",
             "role": "Lead backend developer",
-            "email": "silverfire@hiqdev.com",
+            "email": "d.naumenko.a@gmail.com",
             "homepage": "http://silverfire.me/"
         },
         {
             "name": "Andrey Klochok",
             "role": "Lead frontend developer",
-            "email": "tafid@hiqdev.com",
+            "email": "andreyklochok@gmail.com",
             "homepage": "http://hiqdev.com/"
         },
         {
             "name": "Yuriy Myronchuk",
             "role": "QA Lead",
-            "email": "bladeroot@hiqdev.com",
+            "email": "bladeroot@gmail.com",
             "homepage": "http://hiqdev.com/"
         }
     ],
