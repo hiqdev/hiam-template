@@ -1,6 +1,7 @@
 <?php
 
 return [
-    'cookieValidationKey' => '',
-    'debug_allowed_ips'   => [],
+    'cookieValidationKey'   => '',
+
+    'debug.allowedIps'      => [],
 ];
